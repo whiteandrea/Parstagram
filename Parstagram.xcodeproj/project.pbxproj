@@ -12,6 +12,7 @@
 		A266E64028F4C23700D1C2FE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A266E63F28F4C23700D1C2FE /* CameraViewController.swift */; };
 		A266E64228F4F9EF00D1C2FE /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A266E64128F4F9EF00D1C2FE /* PostCell.swift */; };
 		A266E64628F503EA00D1C2FE /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A266E64528F503EA00D1C2FE /* FeedViewController.swift */; };
+		A29B884128FF52D800D05E09 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A29B884028FF52D800D05E09 /* CommentCell.swift */; };
 		A2A1612328F4AEFA00B478FB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A1612228F4AEFA00B478FB /* AppDelegate.swift */; };
 		A2A1612528F4AEFA00B478FB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A1612428F4AEFA00B478FB /* SceneDelegate.swift */; };
 		A2A1612A28F4AEFA00B478FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2A1612828F4AEFA00B478FB /* Main.storyboard */; };
@@ -50,6 +51,7 @@
 		A266E63F28F4C23700D1C2FE /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		A266E64128F4F9EF00D1C2FE /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		A266E64528F503EA00D1C2FE /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		A29B884028FF52D800D05E09 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		A2A1611F28F4AEFA00B478FB /* Parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2A1612228F4AEFA00B478FB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A2A1612428F4AEFA00B478FB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -145,6 +147,7 @@
 				A266E63F28F4C23700D1C2FE /* CameraViewController.swift */,
 				A266E64128F4F9EF00D1C2FE /* PostCell.swift */,
 				A266E64528F503EA00D1C2FE /* FeedViewController.swift */,
+				A29B884028FF52D800D05E09 /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -425,6 +428,7 @@
 				A2A1612528F4AEFA00B478FB /* SceneDelegate.swift in Sources */,
 				A266E64628F503EA00D1C2FE /* FeedViewController.swift in Sources */,
 				A266E64228F4F9EF00D1C2FE /* PostCell.swift in Sources */,
+				A29B884128FF52D800D05E09 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
